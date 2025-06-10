@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f92757fe-4c96-4fde-bb08-e840c113c1d3",
+    "customer_id": "788537a1c03af360",
+    "total_price": "3009.00",
+    "shipping_cost": "9.00",
+    "status": "delivered",
+    "date": "2025-05-22T20:12:03.161681"
+  },
+  {
+    "id": "c325b785-37f3-42e0-8f6d-b767b53f8bec",
+    "customer_id": "c1d67388-5204-406b-84f0-9f416dce0a39",
+    "total_price": "2299.95",
+    "shipping_cost": "50.00",
+    "status": "shipped",
+    "date": "2025-05-25T13:52:33.845307"
+  },
+  {
+    "id": "9846299a-b877-4344-a5ac-b807309f9b52",
+    "customer_id": "c1d67388-5204-406b-84f0-9f416dce0a39",
+    "total_price": "2299.95",
+    "shipping_cost": "50.00",
+    "status": "created",
+    "date": "2025-05-25T14:23:02.638216"
+  },
+  {
+    "id": "cc029dcb-930f-4555-8d99-1305e89cd9f7",
+    "customer_id": "c1d67388-5204-406b-84f0-9f416dce0a39",
+    "total_price": "2249.89",
+    "shipping_cost": "50.00",
+    "status": "shipped",
+    "date": "2025-05-25T15:18:06.823117"
+  },
+  {
+    "id": "a53d8180-3f21-4216-89ef-475f307ce9c9",
+    "customer_id": "b310959c-3c61-4fc5-a3fb-1f4ef0cb6829",
+    "total_price": "2299.95",
+    "shipping_cost": "50.00",
+    "status": "delivered",
+    "date": "2025-05-31T17:30:51.791816"
+  },
+  {
+    "id": "7e73ee10-bf16-4070-9d08-3860df556468",
+    "customer_id": "29e759b3-ff57-4852-8fed-316bb6adf88d",
+    "total_price": "5449.88",
+    "shipping_cost": "50.00",
+    "status": "created",
+    "date": "2025-05-31T19:31:11.282434"
+  }
+]

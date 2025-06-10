@@ -1,0 +1,34 @@
+{
+  "f9a1d09b-2b07-4845-b272-bc50e03a31b9": {
+    "id": "f9a1d09b-2b07-4845-b272-bc50e03a31b9",
+    "name": "deneme",
+    "email": "deneme@example.com",
+    "password": "y",
+    "address": "y",
+    "phone": "y"
+  },
+  "c1d67388-5204-406b-84f0-9f416dce0a39": {
+    "id": "c1d67388-5204-406b-84f0-9f416dce0a39",
+    "name": "a",
+    "email": "a",
+    "password": "a",
+    "address": "aa",
+    "phone": "a"
+  },
+  "b310959c-3c61-4fc5-a3fb-1f4ef0cb6829": {
+    "id": "b310959c-3c61-4fc5-a3fb-1f4ef0cb6829",
+    "name": "sumeyye",
+    "email": "sumyyunal9@gmail.com",
+    "password": "sude31",
+    "address": "x",
+    "phone": "5464321793"
+  },
+  "29e759b3-ff57-4852-8fed-316bb6adf88d": {
+    "id": "29e759b3-ff57-4852-8fed-316bb6adf88d",
+    "name": "x",
+    "email": "x",
+    "password": "x",
+    "address": "x",
+    "phone": "x"
+  }
+}

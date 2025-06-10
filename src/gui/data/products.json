@@ -1,0 +1,74 @@
+{
+  "p001": {
+    "id": "p001",
+    "name": "Smartphone",
+    "description": "High-end smartphone with OLED display",
+    "price": "999.99",
+    "category": "Electronics",
+    "stock_quantity": 100
+  },
+  "p002": {
+    "id": "p002",
+    "name": "Laptop",
+    "description": "Powerful laptop for work and gaming",
+    "price": "1299.99",
+    "category": "Electronics",
+    "stock_quantity": 75
+  },
+  "p003": {
+    "id": "p003",
+    "name": "Wireless Keyboard",
+    "description": "Silent wireless keyboard with ergonomic design",
+    "price": "79.99",
+    "category": "Electronics",
+    "stock_quantity": 147
+  },
+  "p004": {
+    "id": "p004",
+    "name": "Gaming Mouse",
+    "description": "High-precision mouse with customizable buttons",
+    "price": "59.99",
+    "category": "Electronics",
+    "stock_quantity": 197
+  },
+  "p005": {
+    "id": "p005",
+    "name": "Bluetooth Headphones",
+    "description": "Noise-cancelling over-ear headphones",
+    "price": "149.99",
+    "category": "Electronics",
+    "stock_quantity": 100
+  },
+  "p006": {
+    "id": "p006",
+    "name": "Smartwatch",
+    "description": "Fitness tracking and notification support",
+    "price": "199.99",
+    "category": "Electronics",
+    "stock_quantity": 53
+  },
+  "p007": {
+    "id": "p007",
+    "name": "Tablet",
+    "description": "10-inch tablet with high-resolution display",
+    "price": "449.99",
+    "category": "Electronics",
+    "stock_quantity": 65
+  },
+  "p008": {
+    "id": "p008",
+    "name": "Monitor",
+    "description": "27-inch 4K UHD monitor",
+    "price": "329.99",
+    "category": "Electronics",
+    "stock_quantity": 47
+  },
+  "0aef2d76-f87c-4c5f-964e-e839413c66bb": {
+    "id": "0aef2d76-f87c-4c5f-964e-e839413c66bb",
+    "name": "Python OOP Textbook",
+    "description": "Textbook",
+    "price": "20.00",
+    "category": "Book",
+    "stock_quantity": 500
+  }
+}
